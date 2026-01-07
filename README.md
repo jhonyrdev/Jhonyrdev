@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://drive.google.com/file/d/1OlD0nac-2YbpV8djxW8qrS7RJaykvK6Y/view?usp=drive_link" alt="Demo" width="100%">
-</div>
-
 
 <h1 align="center">Hey 👋 I'm Jhonny, Full Stack Developer</h1>
 
