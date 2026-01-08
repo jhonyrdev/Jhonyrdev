@@ -3,11 +3,6 @@
   <img src="./banner.jpg" alt="Texto alternativo">
 </div>
 
-
-<h1 align="center">Hey 👋 I'm Jhonny, Full Stack Developer</h1>
-
-<p align="center"> Desarrollador Full Stack junior con ganas de aprender, crear soluciones útiles y aportar valor en equipo. Comprometido con el código limpio y el crecimiento profesional 🚀 </p>
-
 🖥️  See my portfolio at [Mi Portafolio](http://myrepositoryjr.netlify.app/)
 
 ### Skills
