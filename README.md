@@ -16,7 +16,7 @@
 
 ### 🌐 Conecta conmigo
 
-<p align="left"> 
+<p align="center"> 
 <a href="http://portfoliojhonny.netlify.app/" target="blank" rel="noreferrer"> <img width="48" height="48" src="https://img.icons8.com/fluency/48/domain.png" alt="Website"/>
 </a> &nbsp;&nbsp; 
 <a href="https://linkedin.com/in/jhonnyrodriguez" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40" alt="LinkedIn"/> 
