@@ -23,7 +23,7 @@
 <!--</a> &nbsp;&nbsp; <a href="TUBEHANCE" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" width="40" height="40" alt="Behance"/> -->
 </a> &nbsp;&nbsp; <a href="mailto:jhonnyr.codex@gmail.com"> <img src="https://cdn.simpleicons.org/gmail" width="40" height="40" alt="Email"/> </a> </a> </p>
 
-## 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Tecnologias
 
 <table> <tr> <td valign="top" width="33%">
 
