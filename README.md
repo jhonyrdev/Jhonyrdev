@@ -1,6 +1,5 @@
-
 <div align="center">
-  <img width=100% src="./BannerS.png" alt="Banner">
+  <img width=100% height="150" src="./BannerS.png" alt="Banner">
 </div>
 
 <h3 align="center">
@@ -83,7 +82,7 @@
 </div>
 
 <div align="center">
-  <img width=100% src="./BannerI.png" alt="Banner">
+  <img width=100% height="150" src="./BannerI.png" alt="Banner">
 </div>
 
 ###
