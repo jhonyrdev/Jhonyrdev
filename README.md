@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="./banner.jpg" alt="Texto alternativo">
+  <img src="./BannerS.png" alt="Banner">
 </div>
 
 <h3 align="center">
@@ -80,6 +80,10 @@
 
 [![](https://github-readme-stats.vercel.app/api/top-langs?username=jhonyrdev&show_icons=true&locale=en&layout=compact&theme=radical)]()
 
+</div>
+
+<div align="center">
+  <img src="./BannerI.png" alt="Banner">
 </div>
 
 ###
